@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/93a4542454921155bec0c7fed9f58e5cefccd292/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_393d71cc0c7441b37c3741e7572d959eb89ca120/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/1e5bc06cadafb682dc20b6cc2ce912bb687d7856/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ae475f56eae94a6614db527474af493d0a421271">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33471e392b3f81c3fc0d9da5be8ee983e76cb379/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/ff458ae2d1bab93a4c7c14e5f4c76fd4415cc1fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec1f195979cc7f1ec94779fa16f1b10aac8aceca">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73104baa51252a82d2ae5f0467faf7172a6ebb94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.3/e51ebc59da5103a2052859e89682c7f9c3456298/kotlin-stdlib-1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e51ebc59da5103a2052859e89682c7f9c3456298">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.1.3_c31db0002e2547a0d36b762eba480bb9e7c1f8a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/3e05dd6a2ee83a1084a797bb3be357389b006bce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22da9ee72584676ac0a894fe7c0ccae6818921dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/6293c5180f88cb3ee3a5c6388239b9a7c64569c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da7ad43ce7be1d12ca7a76eff6355459f4db77d6">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1b759bfc5c7e75dfd44c75d44dde512ab84610c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/a43dec0dc433c81bef4e98504eb822c023668c4d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b70c5ad05857b8b3b2458777e1b489a96d82f05">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb621d6f3c95e493e34ce77bb479f70611b606ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/a64aacd827764c704a7270d46c8f943fc0656b87/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="652f51abc06a99243ca9399c13af2c6c0769c277">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dcbdfe9e272a03afc96be5d9f8feb4e5e29ab139/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.3/ca54720041043baefa0946f7ab2326934cfefd7f/kotlin-stdlib-jre7-1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca54720041043baefa0946f7ab2326934cfefd7f">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-jre7-1.1.3_222a48a10168d32ea34cb2db898863d0582dc347/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/94485eb3263a08d05702d29bb16b7ddfd92f09d9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7057b89327260d70337f4913f933c78bb56ecd69">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c5e01a36d804212de25ebc83243f781d41955af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/7efde29de9b845bcf1aab49f633da19459d8bd64/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c16e0d5f6efb0cdae98b38fe9a48d5236ea136d0">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4376f873c5c7d10c5391ece4493dec6a4571c41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/Desktop/Forekast/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98ea53b04df385e6a920376e4776025fc2d7a442">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4575f67132f37d196112af69b88df6872a248c45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/302dbc3f3c643a28cc9cf2d01fc4398c6b7bf101/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2bb9d4a3fdf9715a8b9c66525320f9af1661614/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/003b41eee6e729d5e315b19e9b1699dd784ee320/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e5edad98e4113971e515a8d9fe89d6f95235fa9">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c39018f15eac77c963d49b0f54d788d2a0e3ceb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/7ae5bc0449bf6d1f1ea0f4b12df76a30ef327960/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cb238c479cbda3db7cef9a99c11e5fd4851445fe">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f620b793004ddeb7de283cdad056fe354d0ffb8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/290c2abe22225a532492ea3a8c7f6b7d90d9afab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac963cf1fa8f301932b7d2b9c4badded33f9e746/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/ed22d0704b2ae3e1e3ed3d143ae805ded2c9103b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d94940ddde71cc57402c78b7d8c335d61958f486">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c848fc68d667c1938aa61afe0777b8d16e5235f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/9c03c16dd0062a8a4c11678afe5e09af2a0d18e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d4384aa06b19d6aecdb87102784d5c0d2ea7532">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98c363e231d17517492e2a2464e1c97ee6d6a3e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/d2ce0708ca0ffdbdc6f2da57c41bcc766891645a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2fa4bed8a1213a783ee394e58924fdc1aedc298a">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3822d4dc3ab9c47896a1135a280ac65a06cf62ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/ba58b127118851cd17d19a26fcd1264e106908ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e61da404cae4920f9da5a091a80c522561f9a85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/c69cb08faeb96e85bfaefe499fa49137728f95ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3013ffee567202ddab82286ac45b28fcb1e7926a">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6dc8e2914338cb03948d538c4ba6f229206113b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/9edc0bf60269de0ef87c8bdac48c7ab60e8be4f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b4fa53b1dbc43a65e9cbcbfe25f4abc47264e78c">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57c098f50b0a0fab8c697e2f81c85ba6609692c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/9d89c6a7e76305020f0443c0ac26f0a83a434ff7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dc4ae725967274969c55950ec75a677847a73510">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_429a6d3edea6c90985c8e48134e2f094f4945b31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/dc8714acc0e7d4cb99dad769e590cc0c4dbb6601/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0dc1af4997434691ade16df4be64d49d1bd1fef5">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e20334a936e9f58a14c456488d5302790c8705a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/4619a45bf6d7ac6955191b37b498af3d4d31f36c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a572a0bd9ea324b099b1761670237bc1be8ba7b">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7c441170dde205a1916e1a2c87c01aa988f718b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/9a0844f3feeedc04b33396bd7ecc6c9b93a5228a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_307d9149468b6ab0a56548d187505e7823dc4191/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/394d596abcd15689f06261fce249a414fccbde36/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b132c56e382e8b63e43a0ab0110ddb064fc624d8">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5436921c4825b7e706318c8800fbceaca8380fd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/47a557da069cf6b2302f6ba55edcfa9b0e97451b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="90095b555b72205db6f9b93aca3cb9978d1e3344">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08ab312021e833294d14b044c975177b3541b71e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/76cd97dd60da8d74dff2e10023f34a16edc93960/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dc42a4e71da2b0d64015faea03bcb772569b1df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/fa9d2a0c39299f4f20d1fc1524f0b5ce2eb5739a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7ce552453962f4f725f7c206725c4c5b32f1d6c0">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa511225f718c6ccf584d120ba60ad378308952e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/3cda901543e3935f991a1da54e590b91ef78f563/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c147bfc12797852c00de33231b3d63b0b6f49375">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c46430ade6a45d44ad989bb3ea9716834c933e7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/68e2f1dd5102b5b7995709cfd947acc49534bcf9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1dfef62219fda6d848b8a24dad7318ea52cd476d">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0390cd68c72b67cc0737d10a06aa6369da3d2413/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/9932bc537fc80b7946083d02c83ebdacd34a5d74/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7ae2522527c30bca3c57d1fa4617b01ff5e1de79">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31d8e5c6a32deb8bc7633c2e63a94de2a0d9ded4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/dc885a17bee2247a78a79b9c8b7aa5cf6752a010/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="76f1e5943cb1fc1a841880ed72af680cba8a046c">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24258e0bc53a84a6147ac313ee6f0de58e84bf04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/f3da2525992467319593c6cb6149c429dd9c6275/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12f11ddca91e9870cc9ff9fe3c4bea3e02329856/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/1392c431b5cc8611b7cfcbbabc35cfa8981bde4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="363fb5cab8e3b60b403373e02b505ee3e47d1c91">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f722d2b2a43d4618820a4cfd2bcc75a946251da6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/a43d1652ef79e4b650cd2292ee33f92f4b63f826/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_375ab789110c9b0c477adeb309c19ef0cc86713a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/d6f2c101075e23077e3873b9c8658aebb2d1841c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ac97d7aa6a93902b6b0471fabf6525970d21f56">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afea134ccb2739e5ff94ddeea3a55d066d0f4abf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/a9ab8f0c248ef777ae439262ecf774b5a0557f5c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4ba7399a1a4f5c998b5ce4f6bf33a2e8347820c">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f57f126e4a05b7c9b0d84fc690db0223eda99a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/Desktop/Forekast/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_52184e0e460073452d7e1af06cd50d91113ec06b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/b517037b17e8e8ebe0c487a6db2c553b5fedbbed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c83d8acfa2967e42e7507803cd5bc34c898f7e8a">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d3deff6527d2e6de1f3845d208e594b8dbbb0be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/66ecf3d1db79d3f5f04ff768cd92c95c77e39ded/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a55dbbf7e8cd19864b32c199200cd584c3253efb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/8706d41e4e9e44c200178153d4ec43ff743cc7a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d1fbaee850d07f3fee6af2085239f6d1cdbd6818">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba5630833ae132731a773b8b9789f8c24d00a429/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/a7597a4269f3b9de35fc4c6ecf41b8caea9a57ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0403a6c955272a546a25ae4c085f5fb728de3a42">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c67895f04d2c20cd97d8726ad4931dedb811ef4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/f6dfbccde35f79067b8f22b942f79002b0e5dd92/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="589f444b075f47c43c78d6d7c46198b34ce4c1b6">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0be967362af8e656da70b15d7df966f34a46ded/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/9e1322c42eadfdd855ea0fdf7e19fcb42e0cb0f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95955cf3055a3384ba1bfc30c6da82b92df74e0a">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ecff162da30cd93d677ad7ade07e172286711dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/9ec490fe23c121ca57eddb9a49ea48e6764d7f20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="611fe78f6c12c8a0deeb2ad8dea4a5a247570339">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93770b342a5e6e88011c09d893cb83c61bfc84fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/e7bc76685d5e84c03572b124ec1b167d520df4fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de123ff49c41c304ca4bc7eb5600d294984eaf5f">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc249f7cfb13e48113c70b45074490828ddc630c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/90d3f949d8ba052f16245399b6d89df86e0794f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99e5ceb47a986180eccec6132627cdce23570b67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/c0b7b1cc1cbf84d338bb1da04bec4f30feda4c67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5bd38c72db0a3b4140d38b7fb527e78e46126d79">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41de438debc7bb231811d61ad11b8abc5dd1692e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/37d22c0fb7f6ae4aca607eb4acf0c494a715c90b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f70a8005cc2f6d37e4840f34901eeba3a41de5de">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9240e4584dd4c3f0864b7fe8d319f0f80d01f91f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/e9a17692f7d7976ddd59340cec3cdfe7799d46e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7f21fe29ab841f25f937bdb518862fc8d967a49d">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c03192eb3eb3187c6dcdb5a3d2ad245008fcac1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/f48f65dcfb113f542fde147a120c78f46ebdf11d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bbded8fa779bbe1097a9fbce22de5ccffb20bd60">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d312b1bb6ddccaedea3787086afe35eb3cc0139/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/c9f71b563d5a1598938bc0029596b64b2c4f7c17/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fafc89bde9dd0da1ee66bf903c129fa9a656285b">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df5c4de5be0564f0010b83be1123332bfa47299d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/042a72345b083539a85e652fbd4ebb332e381873/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cc1683c11baff90e41b9a6bd2d0861a35b2c5735">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c1c5c23aa6d4b412855029e4469681f723670c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/84472083d5dcc47e00b2682724a5273b323c7e2d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c56893f4714457bd4ad9f511e2731eba53f7d751">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd6531860129ce08ca0414f7701547fb7ff539cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-13.0_4b7475cde844522c1c906fd8e1e2ae856c5ed5b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/ff7877213140bfe80405128a6996ba2d35849585/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="20771821f96ac4854553c9b6d10a3937909f40a4">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_144b9ab087e39d23153a8e12929bc6210e9e7759/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/459c077d809a59c95ce425e62feee89fab8d200f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3e607ca6e04e85741fa979402b37eb552b811641">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_729953c6c1a015f882ee1c469c6765d9ce46c72e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/81470057b8ee691081f41daf35875e53c68da4a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca904d22cda328fe9261fae8744fb07497c5944b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/8b4b93186441681e45f18716b2480557adc34cd9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f47c3f1c726c3e7a015ef4a6532c71f6356bb0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/horus/.android/build-cache/9b80c2eb4d1fa7f9a17814af47fead3a0e0ac09f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3ab3ca52f409de1922c790aaca1be80dea626934">
+        <dex dex="/home/horus/Desktop/Forekast/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abc29a04792aebca294392ce48e73c4c6586eb82/classes.dex" />
+    </item>
+
+</items>
